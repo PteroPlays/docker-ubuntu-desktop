@@ -1,5 +1,9 @@
 # docker-ubuntu-desktop
-Ubuntu Desktop Web Browser Accessible Docker Image
+Ubuntu Desktop Web Browser Accessible Docker Image 24/7 permanently Own By ShadowCraftMC 
+
+# JOIN DOCKER HUB ShadowCodingHub
+
+link: https://www.shadowcoding.qzz.io
 
 ## ScreenShot
 ![screenshot](screenshot.png)
@@ -35,4 +39,4 @@ $ docker build . -t docker-ubuntu-desktop
 ```
 
 ## License
-MIT License (c) 2023 [Takahashi Akari](https://github.com/takahashi-akari)
+MIT License (c) 2026 [PteroPlays](https://github.com/PteroPlays)
